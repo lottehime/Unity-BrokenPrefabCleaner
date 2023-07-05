@@ -31,7 +31,7 @@ I have 900 meshes each turned into 4 prefabs each (with a different shader per),
 
 I prune 700 meshes out of the project. They aren't needed anymore.
 
-Now I have 200 prefabs I want, and 700 that are broken junk and I want to delete them all from their subsequent folders.
+Now I have 200x4 prefabs I want, and 700x4 that are broken junk and I want to delete them all from their subsequent folders.
 
 They will no longer have a MeshRenderer component attached to them as the mesh no longer exists. We can target them based on that.
 
