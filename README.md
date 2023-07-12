@@ -3,11 +3,11 @@ Small script thast finds prefabs that are now missing a certain component (broke
 
 ---
 
-### Did you purposefully delete some objects from the project that were parts of some prefabs, and now those prefabs are broken junk you need to clean up?
+#### Did you purposefully delete some objects from the project that were parts of some prefabs, and now those prefabs are broken junk you need to clean up?
 
-### Are there over 9000 items and you don't want to find and delete them by hand?
+#### Are there over 9000 items and you don't want to find and delete them by hand?
 
-### Use this.
+#### Use this.
 
 ---
 
@@ -23,8 +23,6 @@ Small script thast finds prefabs that are now missing a certain component (broke
 
 ### Just be sure you're directing it to the right location or have a bad day.
 
----
-
 ## Usage example for context:
 
 I have 900 meshes each turned into 4 prefabs each (with a different shader per), stored in multiple folders.
@@ -36,3 +34,8 @@ Now I have 200x4 prefabs I want, and 700x4 that are broken junk and I want to de
 They will no longer have a MeshRenderer component attached to them as the mesh no longer exists. We can target them based on that.
 
 Edit script, run it. Wait. Go make a coffee. Come back. Prefabs gone!
+
+<!-- BUY ME A COFFEE -->
+## Help Support More Like This
+
+<a href="https://www.buymeacoffee.com/lottehime" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
